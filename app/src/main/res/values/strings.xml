@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AGE In Minutes App</string>
+    <string name="convert">CONVERT</string>
+    <string name="age_in_time">AGE IN TIME</string>
+</resources>
